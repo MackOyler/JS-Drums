@@ -7,4 +7,4 @@ Simply put, I am a drummer. I also fidget a lot, and tend to drum on everything 
 I eventually want to expand this to switch between instruments, and to incorporate more keys. 
 
 ## Dev Team
--[Mack Oyler] (https://www.linkedin.com/in/mack-oyler/)
+-[Mack Oyler](https://www.linkedin.com/in/mack-oyler/)
